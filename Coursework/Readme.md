@@ -1,4 +1,4 @@
-# Repository of my completed coursework in Masters Degree
+# Coursework Repository
 
-Master of Science in Data Science and Business Analytics
-Asia Pacific University of Technology & Innovation
+**Master of Science in Data Science and Business Analytics**  
+**Asia Pacific University of Technology & Innovation**
