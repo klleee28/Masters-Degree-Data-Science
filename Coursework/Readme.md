@@ -1,7 +1,9 @@
 # Coursework Repository
 
 **Master of Science in Data Science and Business Analytics**  
-**Asia Pacific University of Technology & Innovation**
+**Asia Pacific University of Technology & Innovation**  
+
+Course duration: December 2021 - December 2022
 
 # Semester 1
 1. Applied Machine Learning
