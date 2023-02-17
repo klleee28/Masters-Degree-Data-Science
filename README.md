@@ -1,4 +1,4 @@
-# Coursework that I have completed in my Masters Degree in Data Science
+# Read Me
 
 This repository stores the coursework that I have completed during my Masters Degree in Data Science.
 
